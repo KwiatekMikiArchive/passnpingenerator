@@ -1,6 +1,4 @@
 # Password and Pin Generator
 Basic password and PIN generator.
-## Polish version:
+## Polish version (not updated):
 https://github.com/KwiatekMiki/GeneratorHaselOrazPinow
-### Important information
-I am trying to learn python so.... 😳
