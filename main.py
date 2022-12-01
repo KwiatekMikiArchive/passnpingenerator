@@ -1,4 +1,4 @@
-# No comments in english version...
+# No comments in english version... omg
 import string, secrets, os
 clearthis = lambda: os.system('cls, clear')
 
