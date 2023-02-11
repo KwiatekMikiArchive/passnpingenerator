@@ -1,6 +1,6 @@
 # No comments in english version...
 import string, secrets, os
-clearthis = lambda: os.system('cls, clear')
+clearthis = lambda: os.system('cls') or os.system('clear')
 
 a = string.ascii_letters
 b = string.digits
