@@ -1,9 +1,8 @@
-# passnpin generator
-Basic password and PIN generator.
-## Polish version (not updated):
-https://github.com/KwiatekMiki/GeneratorHaselOrazPinow
-## Stats
-![](https://img.shields.io/github/stars/KwiatekMiki/passnpingenerator?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/github/issues/KwiatekMiki/passnpingenerator?style=for-the-badge&logo=appveyor)
+# PassNPin Generator
+A simple password and PIN generator made for literally no reason.
+
+<img src="https://url.zip/c4b85af" alt="Star count"> <a href="https://github.com/KwiatekMiki/passnpingenerator/releases"><img src="https://url.zip/70c4237" alt="Latest version"></a>
+
 ## How to use it?
 1. Download [this .zip file](https://github.com/KwiatekMiki/passnpingenerator/archive/refs/tags/v1.0.zip)
 2. Download Python (if you haven't)
