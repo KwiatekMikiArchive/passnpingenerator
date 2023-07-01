@@ -1,0 +1,24 @@
+{
+    "menu": {
+        "what": "Co chcesz wygenerować?",
+        "tip": "H̲asło/P̲in/N̲ick"
+    },
+    "letters": {
+        "pass": "h",
+        "pin": "p",
+        "nick": "n"
+    },
+    "password": {
+        "howlong": "Jak długie hasło potrzebujesz?",
+        "your": "Twoje hasło to"
+    },
+    "pin": {
+        "howlong": "Jak długi PIN potrzebujesz?",
+        "your": "Twój PIN to"
+    },
+    "nick": {
+        "soonTM": "Wkrótce!"
+    },
+    "wronglength": "Zła długość.",
+    "notint": "Długość nie jest numerem."
+}

@@ -1,0 +1,24 @@
+{
+    "menu": {
+        "what": "What do you want to generate?",
+        "tip": "P̲assword/Pi̲n/N̲ick"
+    },
+    "letters": {
+        "pass": "p",
+        "pin": "i",
+        "nick": "n"
+    },
+    "password": {
+        "howlong": "How long password do you need?",
+        "your": "Your password is"
+    },
+    "pin": {
+        "howlong": "How long PIN do you need?",
+        "your": "Your PIN is"
+    },
+    "nick": {
+        "soonTM": "Coming soon!"
+    },
+    "wronglength": "Wrong length.",
+    "notint": "Length is not a number."
+}

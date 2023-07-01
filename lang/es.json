@@ -1,0 +1,24 @@
+{
+    "menu": {
+        "what": "¿Qué deseas generar?",
+        "tip": "C̲ontraseña/P̲in/A̲podo"
+    },
+    "letters": {
+        "pass": "c",
+        "pin": "p",
+        "nick": "a"
+    },
+    "password": {
+        "howlong": "¿Cuántos caracteres debe tener la contraseña?",
+        "your": "Tu contraseña es"
+    },
+    "pin": {
+        "howlong": "¿Cuántos dígitos debe tener el PIN?",
+        "your": "Tu PIN es"
+    },
+    "nick": {
+        "soonTM": "¡Próximamente!"
+    },
+    "wronglength": "Longitud incorrecta.",
+    "notint": "La longitud no es un número."
+}
