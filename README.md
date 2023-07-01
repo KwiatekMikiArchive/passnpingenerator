@@ -1,7 +1,7 @@
 # PassNPin Generator
 A simple password and PIN generator made for literally no reason.
 
-<img src="https://url.zip/0ee4bcd" alt="Star count"> <a href="https://github.com/KwiatekMiki/passnpingenerator/releases"><img src="https://url.zip/70c4237" alt="Latest version"></a>
+<img src="https://url.zip/94a87c6" alt="Star count"> <a href="https://github.com/KwiatekMiki/passnpingenerator/releases"><img src="https://url.zip/70c4237" alt="Latest version"></a>
 
 ## How to use it?
 1. Download [this .zip file](https://github.com/KwiatekMiki/passnpingenerator/archive/refs/tags/v1.0.zip)
