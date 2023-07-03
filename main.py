@@ -56,7 +56,7 @@ if what == lets["pass"]:
   strtoint(length)
   checklen(length, 4, 100)
   
-  passwd = ''.join(secrets.choice(chars) for i in range(int(length)))
+  passwd = ''.join(secrets.choice(chars, chars=length))
   print(f"{passt['your']}: {passwd}")
 
 elif what == lets["pin"]:
@@ -66,7 +66,7 @@ elif what == lets["pin"]:
   if length > 10 or length < 4:
     raise ValueError(trans["wronglength"])
   
-  pin = ''.join(secrets.choice("1234567890") for i in range(int(length)))
+  pin = ''.join(secrets.choice("1234567890", chars=length))
   print(f"{pint['your']}: {pin}")
 
 elif what == lets["nick"]:
