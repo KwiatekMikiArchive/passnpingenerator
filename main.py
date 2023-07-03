@@ -1,6 +1,9 @@
 import secrets, ctypes
 import json, os, locale
 
+def clearscreen():
+  print('\n'*100)
+
 if not os.path.exists(f"./chars.txt"):
   raise FileNotFoundError("Can't find chars.txt. Did you run this in a correct folder?")
 
