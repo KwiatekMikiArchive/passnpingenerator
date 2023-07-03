@@ -13,7 +13,7 @@ oglang = locale.windows_locale[windll.GetUserDefaultUILanguage()] # With help of
 oslang = oglang.split("_")[0]
 
 if not os.path.exists(f"./lang"):
-  FileNotFoundError("Can't find 'lang' folder. Did you run this in a correct folder?")
+  raise FileNotFoundError("Can't find 'lang' folder. Did you run this in a correct folder?")
 
 if not os.path.exists(f"./lang/{oslang}.json"):
   print("Can't find a translation for your Windows language, using English.")
